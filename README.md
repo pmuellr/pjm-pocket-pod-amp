@@ -47,7 +47,7 @@ changelog
 
 version 2024.9.21
 
-- initial version
+- initial version in development
 
 
 references
