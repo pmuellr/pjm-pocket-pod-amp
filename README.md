@@ -26,20 +26,17 @@ instance if you twiddle some knobs.
 Controls supported:
 
 - amp model      
-- amp cab        
+- cab model
 - drive          
 - presence       
 - bright switch  
-- noise gate     
-- gate threshold 
-- gate decay     
 - air ambience   
 
 The auto-mapped parameters for the device are set up as the following bank:
 
 | control 1   | control 2     | control 3    | control 4   | control 5     | control 6   | control 7     | control 8  |   
 |-------------|---------------|--------------|-------------|---------------|-------------|---------------|-------------
-| amp up      | amp down      | cab up       | cab down    | presence      | drive       | gate threshold| gate decay |
+| amp up      | amp down      | cab up       | cab down    | presence      | drive       | bright switch | air ambience |
 
 
 changelog
