@@ -42,6 +42,11 @@ The auto-mapped parameters for the device are set up as the following bank:
 changelog
 ================================================================================
 
+version 2024.9.25
+
+- all the controls seem to be working; I want to get some reload
+  code in, as well as some reset of all the things
+
 version 2024.9.21
 
 - initial version in development
@@ -198,3 +203,5 @@ Effects Models (MIDI CC 19)
 |    13 | Delay/Flanger1 |
 |    14 | Delay/Swell |
 |    15 | Delay/Flanger2   |
+
+
