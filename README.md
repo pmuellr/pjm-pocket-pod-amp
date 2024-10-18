@@ -27,20 +27,31 @@ Controls supported:
 
 - amp model      
 - cab model
-- drive          
+- drive    
+- bass
+- mid
+- treble      
 - presence       
 - bright switch  
-- air ambience   
+- AIR ambience   
+
+The amp and cab have "up" and "down" buttons above the picker, which will
+go up or down the list.  Useful to map to foot switches.
 
 The auto-mapped parameters for the device are set up as the following bank:
 
 | control 1   | control 2     | control 3    | control 4   | control 5     | control 6   | control 7     | control 8  |   
 |-------------|---------------|--------------|-------------|---------------|-------------|---------------|-------------
-| amp up      | amp down      | cab up       | cab down    | presence      | drive       | bright switch | air ambience |
+| amp         | cab           | drive        | presence    | bass          | middle      | treble        | volume     |
+| air         | bright        | drive        | presence    | bass          | middle      | treble        | volume     |
 
 
 changelog
 ================================================================================
+
+version 2024.10.16
+
+- am I done?  I think everything's done!  Must be close!
 
 version 2024.9.25
 
