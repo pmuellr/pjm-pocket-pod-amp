@@ -49,6 +49,18 @@ The auto-mapped parameters for the device are set up as the following bank:
 changelog
 ================================================================================
 
+version 2024.10.18
+
+- ya, there were a few problems. [pod-ui] was **invaluable** in seeing
+  what the problems were.  Namely, that the volume pedal was set to 0,
+  which meant you couldn't hear anything.  Was going mad.  Useful tool,
+  and pointer to the fact that the device supports more MIDI than the
+  public doc from Line 6 indicates.
+
+  Thinks it's working good now tho!
+
+[pod-ui]: https://arteme.github.io/pod-ui/
+
 version 2024.10.16
 
 - am I done?  I think everything's done!  Must be close!
